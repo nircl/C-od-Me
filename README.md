@@ -1,2 +1,2 @@
-# C-ode-hallenges
-Challenges made for better self learning 
+# C-ode-Me
+Challenges made for better Coding . . . . 
