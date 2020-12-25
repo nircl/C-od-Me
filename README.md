@@ -1,2 +1,2 @@
-# C-ode-Me
+# C-od-Me
 Challenges made for better Coding . . . . 
