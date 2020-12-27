@@ -1,2 +1,2 @@
-# C-od-Me
+# MeC-od
 Challenges made for better Coding . . . . 
